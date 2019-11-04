@@ -1,0 +1,3940 @@
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	18.04	1571
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/sidewalk/input/in%06d.jpg
+240X352	14.78	1201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/boulevard/input/in%06d.jpg
+240X352	28.65	2501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/badminton/input/in%06d.jpg
+480X720	51.89	1151
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/PETS2006/input/in%06d.jpg
+576X720	69.78	1201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	21.9	2051
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	11.88	1100
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/highway/input/in%06d.jpg
+240X320	17.86	1701
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/canoe/input/in%06d.jpg
+240X320	12.96	1190
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/fountain02/input/in%06d.jpg
+288X432	24.64	1500
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/fountain01/input/in%06d.jpg
+288X432	18.65	1185
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/fall/input/in%06d.jpg
+480X720	187.11	4001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/overpass/input/in%06d.jpg
+240X320	29.88	3001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/boats/input/in%06d.jpg
+240X320	80.6	8000
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d1_uncomp/%05d.jpg
+120X160	0.09	13
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d4_uncomp/%05d.jpg
+120X160	0.11	19
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d2_uncomp/%05d.jpg
+120X160	0.12	25
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person14_handwaving_d2_uncomp/%05d.jpg
+120X160	0.4	87
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person13_handwaving_d2_uncomp/%05d.jpg
+120X160	0.19	41
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d1_uncomp/%05d.jpg
+120X160	0.04	4
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person05_handwaving_d1_uncomp/%05d.jpg
+120X160	1.95	412
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person08_handwaving_d3_uncomp/%05d.jpg
+120X160	0.08	15
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person08_handwaving_d2_uncomp/%05d.jpg
+120X160	0.06	8
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person14_boxing_d3_uncomp/%05d.jpg
+120X160	0.34	73
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person16_boxing_d4_uncomp/%05d.jpg
+120X160	0.28	58
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person11_boxing_d1_uncomp/%05d.jpg
+120X160	0.06	7
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person14_boxing_d4_uncomp/%05d.jpg
+120X160	0.05	6
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person13_boxing_d2_uncomp/%05d.jpg
+120X160	0.94	221
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person16_boxing_d3_uncomp/%05d.jpg
+120X160	0.07	12
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person11_boxing_d3_uncomp/%05d.jpg
+120X160	0.18	37
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person13_boxing_d4_uncomp/%05d.jpg
+120X160	0.31	71
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person12_boxing_d3_uncomp/%05d.jpg
+120X160	0.13	23
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person15_boxing_d4_uncomp/%05d.jpg
+120X160	0.05	3
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person15_boxing_d2_uncomp/%05d.jpg
+120X160	0.1	16
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person17_boxing_d2_uncomp/%05d.jpg
+120X160	0.08	11
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person17_boxing_d4_uncomp/%05d.jpg
+120X160	0.05	5
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person13_boxing_d1_uncomp/%05d.jpg
+120X160	0.03	2
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person12_boxing_d4_uncomp/%05d.jpg
+120X160	0.3	64
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person12_boxing_d1_uncomp/%05d.jpg
+120X160	0.07	11
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person15_boxing_d1_uncomp/%05d.jpg
+120X160	0.06	8
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person15_boxing_d3_uncomp/%05d.jpg
+120X160	0.03	2
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person14_boxing_d2_uncomp/%05d.jpg
+120X160	0.03	2
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person18_boxing_d3_uncomp/%05d.jpg
+120X160	0.23	46
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person11_boxing_d2_uncomp/%05d.jpg
+120X160	0.25	50
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person16_boxing_d2_uncomp/%05d.jpg
+120X160	0.09	13
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/boxing/Training/person14_boxing_d1_uncomp/%05d.jpg
+120X160	0.04	2
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d4_uncomp/%05d.jpg
+120X160	0.14	6
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d3_uncomp/%05d.jpg
+120X160	0.3	20
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person04_jogging_d4_uncomp/%05d.jpg
+120X160	0.09	4
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d2_uncomp/%05d.jpg
+120X160	0.64	63
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d1_uncomp/%05d.jpg
+120X160	0.37	33
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d1_uncomp/%05d.jpg
+120X160	0.59	45
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person19_jogging_d2_uncomp/%05d.jpg
+120X160	0.08	2
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person20_jogging_d2_uncomp/%05d.jpg
+120X160	0.29	20
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person02_jogging_d1_uncomp/%05d.jpg
+120X160	0.38	25
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person22_handwaving_d1_uncomp/%05d.jpg
+120X160	0.89	61
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	2.44	205
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	0.35	24
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	4.19	343
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	0.24	16
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	4.72	431
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	0.65	49
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	3.57	292
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	0.72	55
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	4.41	466
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	0.54	39
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	5.09	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	4.79	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	4.39	358
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	0.1	3
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	0.06	2
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	0.13	6
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	5.22	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	5.19	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	4.93	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	4.89	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	6.81	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	4.03	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d2_uncomp/%05d.jpg
+120X160	4.68	451
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d1_uncomp/%05d.jpg
+120X160	7.33	661
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d4_uncomp/%05d.jpg
+120X160	3.76	321
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d3_uncomp/%05d.jpg
+120X160	5.99	486
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d4_uncomp/%05d.jpg
+120X160	3.73	360
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d1_uncomp/%05d.jpg
+120X160	4.37	429
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d3_uncomp/%05d.jpg
+120X160	4.69	491
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d1_uncomp/%05d.jpg
+120X160	4.45	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d2_uncomp/%05d.jpg
+120X160	5.51	561
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d4_uncomp/%05d.jpg
+120X160	4.51	391
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d3_uncomp/%05d.jpg
+120X160	4.55	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d4_uncomp/%05d.jpg
+120X160	4.87	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d3_uncomp/%05d.jpg
+120X160	4.76	411
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d1_uncomp/%05d.jpg
+120X160	4.28	421
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d4_uncomp/%05d.jpg
+120X160	4.35	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d2_uncomp/%05d.jpg
+120X160	5.34	521
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d2_uncomp/%05d.jpg
+120X160	5.4	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d2_uncomp/%05d.jpg
+120X160	4.86	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d1_uncomp/%05d.jpg
+120X160	5.17	526
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d4_uncomp/%05d.jpg
+120X160	5.88	581
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d1_uncomp/%05d.jpg
+120X160	3.7	391
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d1_uncomp/%05d.jpg
+120X160	5.04	501
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d4_uncomp/%05d.jpg
+120X160	4.74	436
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d2_uncomp/%05d.jpg
+120X160	5.37	561
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d2_uncomp/%05d.jpg
+120X160	6.25	586
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d4_uncomp/%05d.jpg
+120X160	4.35	406
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person23_jogging_d3_uncomp/%05d.jpg
+120X160	3.1	303
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person04_jogging_d3_uncomp/%05d.jpg
+120X160	3.72	326
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person23_jogging_d4_uncomp/%05d.jpg
+120X160	3.5	311
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person25_jogging_d2_uncomp/%05d.jpg
+120X160	5.95	485
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person19_jogging_d3_uncomp/%05d.jpg
+120X160	3.42	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person25_jogging_d4_uncomp/%05d.jpg
+120X160	4.01	381
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d4_uncomp/%05d.jpg
+120X160	3.92	363
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d3_uncomp/%05d.jpg
+120X160	5.15	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person04_jogging_d4_uncomp/%05d.jpg
+120X160	3.28	303
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d2_uncomp/%05d.jpg
+120X160	6.73	621
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d1_uncomp/%05d.jpg
+120X160	6.1	581
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d2_uncomp/%05d.jpg
+120X160	4.05	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person23_jogging_d1_uncomp/%05d.jpg
+120X160	3.56	369
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person25_jogging_d3_uncomp/%05d.jpg
+120X160	3.37	313
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person20_jogging_d1_uncomp/%05d.jpg
+120X160	4.8	471
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person23_jogging_d2_uncomp/%05d.jpg
+120X160	5.1	529
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person24_jogging_d4_uncomp/%05d.jpg
+120X160	4.56	376
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person24_jogging_d1_uncomp/%05d.jpg
+120X160	5.51	571
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person19_jogging_d1_uncomp/%05d.jpg
+120X160	4.32	366
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person25_jogging_d1_uncomp/%05d.jpg
+120X160	2.73	285
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person04_jogging_d2_uncomp/%05d.jpg
+120X160	5.26	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person24_jogging_d2_uncomp/%05d.jpg
+120X160	6.6	656
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person20_jogging_d3_uncomp/%05d.jpg
+120X160	3.72	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person24_jogging_d3_uncomp/%05d.jpg
+120X160	4.48	453
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d1_uncomp/%05d.jpg
+120X160	5.1	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person19_jogging_d2_uncomp/%05d.jpg
+120X160	5.08	526
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person20_jogging_d4_uncomp/%05d.jpg
+120X160	3.95	321
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d3_uncomp/%05d.jpg
+120X160	3.89	406
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person04_jogging_d1_uncomp/%05d.jpg
+120X160	3.71	336
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person20_jogging_d2_uncomp/%05d.jpg
+120X160	4.64	471
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person19_jogging_d4_uncomp/%05d.jpg
+120X160	4.1	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d4_uncomp/%05d.jpg
+120X160	5.03	451
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person06_jogging_d3_uncomp/%05d.jpg
+120X160	3.2	305
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person06_jogging_d1_uncomp/%05d.jpg
+120X160	3.52	306
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person07_jogging_d3_uncomp/%05d.jpg
+120X160	3.15	313
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person02_jogging_d1_uncomp/%05d.jpg
+120X160	3.29	346
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person07_jogging_d4_uncomp/%05d.jpg
+120X160	5.61	571
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person05_jogging_d3_uncomp/%05d.jpg
+120X160	3.6	353
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person02_jogging_d3_uncomp/%05d.jpg
+120X160	3.73	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person22_jogging_d2_uncomp/%05d.jpg
+120X160	4.95	503
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person08_jogging_d2_uncomp/%05d.jpg
+120X160	4.97	479
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person09_jogging_d1_uncomp/%05d.jpg
+120X160	4.95	466
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person09_jogging_d2_uncomp/%05d.jpg
+120X160	6.52	541
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person08_jogging_d1_uncomp/%05d.jpg
+120X160	4.5	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person22_jogging_d1_uncomp/%05d.jpg
+120X160	5.23	497
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person10_jogging_d1_uncomp/%05d.jpg
+120X160	4.78	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person07_jogging_d2_uncomp/%05d.jpg
+120X160	4.84	457
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person03_jogging_d3_uncomp/%05d.jpg
+120X160	4.48	381
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person03_jogging_d2_uncomp/%05d.jpg
+120X160	6.25	621
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person08_jogging_d4_uncomp/%05d.jpg
+120X160	4.73	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person10_jogging_d2_uncomp/%05d.jpg
+120X160	7.55	656
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person22_jogging_d4_uncomp/%05d.jpg
+120X160	3.31	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person22_jogging_d3_uncomp/%05d.jpg
+120X160	5.12	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person03_jogging_d4_uncomp/%05d.jpg
+120X160	3.39	361
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person06_jogging_d2_uncomp/%05d.jpg
+120X160	4.83	499
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person10_jogging_d3_uncomp/%05d.jpg
+120X160	4.14	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person09_jogging_d4_uncomp/%05d.jpg
+120X160	3.74	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person03_jogging_d1_uncomp/%05d.jpg
+120X160	5.57	493
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person07_jogging_d1_uncomp/%05d.jpg
+120X160	4	331
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person02_jogging_d4_uncomp/%05d.jpg
+120X160	3.9	325
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person05_jogging_d2_uncomp/%05d.jpg
+120X160	4.24	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person10_jogging_d4_uncomp/%05d.jpg
+120X160	4.46	364
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person08_jogging_d3_uncomp/%05d.jpg
+120X160	3.82	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person02_jogging_d2_uncomp/%05d.jpg
+120X160	5.97	627
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person05_jogging_d4_uncomp/%05d.jpg
+120X160	3.73	366
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person06_jogging_d4_uncomp/%05d.jpg
+120X160	3.34	341
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person05_jogging_d1_uncomp/%05d.jpg
+120X160	4.17	379
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person09_jogging_d3_uncomp/%05d.jpg
+120X160	4.63	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person11_handwaving_d2_uncomp/%05d.jpg
+120X160	4.63	430
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person12_handwaving_d3_uncomp/%05d.jpg
+120X160	7.26	700
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person14_handwaving_d4_uncomp/%05d.jpg
+120X160	6.09	632
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person18_handwaving_d2_uncomp/%05d.jpg
+120X160	8.61	731
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person13_handwaving_d3_uncomp/%05d.jpg
+120X160	3.56	337
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d4_uncomp/%05d.jpg
+120X160	7.03	667
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person14_handwaving_d1_uncomp/%05d.jpg
+120X160	5.46	546
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person16_handwaving_d3_uncomp/%05d.jpg
+120X160	5.43	509
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person11_handwaving_d1_uncomp/%05d.jpg
+120X160	4.51	476
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d3_uncomp/%05d.jpg
+120X160	7.15	583
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person16_handwaving_d4_uncomp/%05d.jpg
+120X160	4.55	457
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person11_handwaving_d4_uncomp/%05d.jpg
+120X160	4.86	457
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person18_handwaving_d4_uncomp/%05d.jpg
+120X160	6.85	596
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person16_handwaving_d2_uncomp/%05d.jpg
+120X160	5.28	498
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person13_handwaving_d1_uncomp/%05d.jpg
+120X160	4.99	521
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person12_handwaving_d2_uncomp/%05d.jpg
+120X160	6	591
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d3_uncomp/%05d.jpg
+120X160	6.61	599
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person12_handwaving_d1_uncomp/%05d.jpg
+120X160	7.48	673
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d1_uncomp/%05d.jpg
+120X160	4.91	431
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d4_uncomp/%05d.jpg
+120X160	4.46	395
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d2_uncomp/%05d.jpg
+120X160	7.86	704
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person16_handwaving_d1_uncomp/%05d.jpg
+120X160	5.62	493
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person18_handwaving_d3_uncomp/%05d.jpg
+120X160	5.27	553
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person14_handwaving_d3_uncomp/%05d.jpg
+120X160	3.85	331
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person18_handwaving_d1_uncomp/%05d.jpg
+120X160	6.77	581
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person12_handwaving_d4_uncomp/%05d.jpg
+120X160	6.13	568
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person14_handwaving_d2_uncomp/%05d.jpg
+120X160	5.02	527
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person13_handwaving_d2_uncomp/%05d.jpg
+120X160	4.72	493
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d1_uncomp/%05d.jpg
+120X160	5.82	582
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person13_handwaving_d4_uncomp/%05d.jpg
+120X160	5.28	557
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d2_uncomp/%05d.jpg
+120X160	8.61	825
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person11_handwaving_d3_uncomp/%05d.jpg
+120X160	5.63	516
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person21_handwaving_d1_uncomp/%05d.jpg
+120X160	6.75	606
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person01_handwaving_d2_uncomp/%05d.jpg
+120X160	6.24	657
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person25_handwaving_d2_uncomp/%05d.jpg
+120X160	4.98	485
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person20_handwaving_d3_uncomp/%05d.jpg
+120X160	4.86	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person23_handwaving_d4_uncomp/%05d.jpg
+120X160	5.67	527
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person25_handwaving_d1_uncomp/%05d.jpg
+120X160	5.54	476
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person25_handwaving_d3_uncomp/%05d.jpg
+120X160	5.41	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person25_handwaving_d4_uncomp/%05d.jpg
+120X160	4.6	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person21_handwaving_d4_uncomp/%05d.jpg
+120X160	7.24	639
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person01_handwaving_d3_uncomp/%05d.jpg
+120X160	4.94	457
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person23_handwaving_d3_uncomp/%05d.jpg
+120X160	5.53	485
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person19_handwaving_d2_uncomp/%05d.jpg
+120X160	7.25	631
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person19_handwaving_d4_uncomp/%05d.jpg
+120X160	6.54	600
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person21_handwaving_d3_uncomp/%05d.jpg
+120X160	5.77	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person04_handwaving_d4_uncomp/%05d.jpg
+120X160	4.78	461
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person24_handwaving_d2_uncomp/%05d.jpg
+120X160	6.03	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person20_handwaving_d1_uncomp/%05d.jpg
+120X160	5.58	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person23_handwaving_d2_uncomp/%05d.jpg
+120X160	7.17	659
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person23_handwaving_d1_uncomp/%05d.jpg
+120X160	7.74	577
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person04_handwaving_d1_uncomp/%05d.jpg
+120X160	7.58	733
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person20_handwaving_d2_uncomp/%05d.jpg
+120X160	5.46	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person24_handwaving_d4_uncomp/%05d.jpg
+120X160	6.02	526
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person01_handwaving_d1_uncomp/%05d.jpg
+120X160	5.7	469
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person01_handwaving_d4_uncomp/%05d.jpg
+120X160	6.03	491
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person19_handwaving_d3_uncomp/%05d.jpg
+120X160	6.09	639
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person04_handwaving_d3_uncomp/%05d.jpg
+120X160	5.47	539
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person24_handwaving_d1_uncomp/%05d.jpg
+120X160	6.94	589
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person20_handwaving_d4_uncomp/%05d.jpg
+120X160	5.3	503
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person04_handwaving_d2_uncomp/%05d.jpg
+120X160	6.1	563
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person19_handwaving_d1_uncomp/%05d.jpg
+120X160	6.26	656
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person24_handwaving_d3_uncomp/%05d.jpg
+120X160	4.92	521
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person21_handwaving_d2_uncomp/%05d.jpg
+120X160	6.99	665
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person22_handwaving_d3_uncomp/%05d.jpg
+120X160	4.92	487
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person03_handwaving_d3_uncomp/%05d.jpg
+120X160	5.72	493
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person05_handwaving_d4_uncomp/%05d.jpg
+120X160	4.7	433
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person09_handwaving_d4_uncomp/%05d.jpg
+120X160	4.03	406
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person03_handwaving_d2_uncomp/%05d.jpg
+120X160	5.44	456
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person10_handwaving_d2_uncomp/%05d.jpg
+120X160	5.2	526
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person06_handwaving_d3_uncomp/%05d.jpg
+120X160	0.13	6
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person02_handwaving_d2_uncomp/%05d.jpg
+120X160	0.25	15
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person05_handwaving_d3_uncomp/%05d.jpg
+120X160	4.92	453
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person10_handwaving_d1_uncomp/%05d.jpg
+120X160	5.41	525
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person02_handwaving_d4_uncomp/%05d.jpg
+120X160	4.32	391
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person07_handwaving_d4_uncomp/%05d.jpg
+120X160	9.08	781
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person08_handwaving_d1_uncomp/%05d.jpg
+120X160	4.83	503
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person05_handwaving_d1_uncomp/%05d.jpg
+120X160	4.44	461
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person07_handwaving_d3_uncomp/%05d.jpg
+120X160	6.3	596
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person03_handwaving_d1_uncomp/%05d.jpg
+120X160	5.27	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person06_handwaving_d1_uncomp/%05d.jpg
+120X160	1.41	112
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person09_handwaving_d3_uncomp/%05d.jpg
+120X160	5.03	409
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person05_handwaving_d2_uncomp/%05d.jpg
+120X160	3.23	308
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person10_handwaving_d3_uncomp/%05d.jpg
+120X160	0.08	2
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person06_handwaving_d2_uncomp/%05d.jpg
+120X160	5.86	479
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person22_handwaving_d2_uncomp/%05d.jpg
+120X160	6.12	529
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person02_handwaving_d1_uncomp/%05d.jpg
+120X160	5.63	551
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person10_handwaving_d4_uncomp/%05d.jpg
+120X160	5.28	533
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person06_handwaving_d4_uncomp/%05d.jpg
+120X160	5.35	431
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person07_handwaving_d1_uncomp/%05d.jpg
+120X160	8.34	783
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person09_handwaving_d2_uncomp/%05d.jpg
+120X160	4.24	447
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person03_handwaving_d4_uncomp/%05d.jpg
+120X160	7.03	586
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person07_handwaving_d2_uncomp/%05d.jpg
+120X160	7.67	753
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.6	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	5.59	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	3.95	415
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	0.74	54
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	3.4	306
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	0.54	40
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	5.11	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	5.36	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	5.18	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	5.05	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	5.79	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	4.54	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d2_uncomp/%05d.jpg
+120X160	4.67	451
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d1_uncomp/%05d.jpg
+120X160	6.59	661
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d4_uncomp/%05d.jpg
+120X160	3.85	321
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d3_uncomp/%05d.jpg
+120X160	2.03	210
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d4_uncomp/%05d.jpg
+120X160	0.46	32
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d1_uncomp/%05d.jpg
+120X160	0.12	5
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	4.62	415
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	2.14	189
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	0.26	15
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	0.1	3
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	0.21	13
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	0.86	65
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	5.54	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.18	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	6.17	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	0.58	47
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	0.29	18
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	5.92	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.07	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	6.13	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	5.71	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	7.71	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	4.57	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d2_uncomp/%05d.jpg
+120X160	5.8	451
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d1_uncomp/%05d.jpg
+120X160	8.52	661
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d4_uncomp/%05d.jpg
+120X160	4.11	321
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d3_uncomp/%05d.jpg
+120X160	6.22	486
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d4_uncomp/%05d.jpg
+120X160	4.67	360
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d1_uncomp/%05d.jpg
+120X160	5.52	429
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d3_uncomp/%05d.jpg
+120X160	6.09	491
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d1_uncomp/%05d.jpg
+120X160	5.23	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d2_uncomp/%05d.jpg
+120X160	7.24	561
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d4_uncomp/%05d.jpg
+120X160	4.71	391
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d3_uncomp/%05d.jpg
+120X160	5.52	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d4_uncomp/%05d.jpg
+120X160	4.39	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d3_uncomp/%05d.jpg
+120X160	5.33	411
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d1_uncomp/%05d.jpg
+120X160	5.46	421
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d4_uncomp/%05d.jpg
+120X160	5.15	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d2_uncomp/%05d.jpg
+120X160	6.72	521
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d2_uncomp/%05d.jpg
+120X160	6.59	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d2_uncomp/%05d.jpg
+120X160	5.54	420
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d1_uncomp/%05d.jpg
+120X160	0.69	51
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.85	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.12	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	6.18	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	5.24	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	7.84	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	5.44	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d2_uncomp/%05d.jpg
+120X160	5.85	451
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d1_uncomp/%05d.jpg
+120X160	5.46	425
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d4_uncomp/%05d.jpg
+120X160	0.87	60
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	4.74	368
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	0.98	73
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.96	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	2.81	216
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	0.51	35
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.94	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	3.8	366
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	0.17	10
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.86	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.15	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	6.22	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	5.74	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	7.92	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	2.44	186
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.98	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.32	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	4.06	308
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	0.62	43
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	1.01	76
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	0.23	14
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.03	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.28	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	6.26	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	5.69	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	0.25	15
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.95	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.28	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	4.47	339
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	0.1	4
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	7	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	3.25	243
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	0.34	22
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	0.19	12
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.97	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.31	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	6.32	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	5.76	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	8.02	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	5.43	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d2_uncomp/%05d.jpg
+120X160	5.92	451
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d1_uncomp/%05d.jpg
+120X160	8.64	661
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d4_uncomp/%05d.jpg
+120X160	4.26	321
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d3_uncomp/%05d.jpg
+120X160	6.35	486
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d4_uncomp/%05d.jpg
+120X160	4.73	360
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d1_uncomp/%05d.jpg
+120X160	5.52	429
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d3_uncomp/%05d.jpg
+120X160	3.65	279
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.01	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.27	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	5.79	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	5.77	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	2.91	219
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	0.08	3
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	7.04	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	5.55	424
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.36	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	5.51	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	6.67	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	6.3	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	8.71	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	5.9	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d2_uncomp/%05d.jpg
+120X160	4.74	337
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	6.61	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.58	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	7.04	454
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	7.07	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.91	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	6.22	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	6.83	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	9.27	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	6.41	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d2_uncomp/%05d.jpg
+120X160	6.83	451
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d1_uncomp/%05d.jpg
+120X160	10.06	661
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d4_uncomp/%05d.jpg
+120X160	4.4	321
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d3_uncomp/%05d.jpg
+120X160	7.38	486
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d4_uncomp/%05d.jpg
+120X160	3.69	295
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d1_uncomp/%05d.jpg
+120X160	0.63	37
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	7.14	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	4.71	382
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	0.09	3
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	7.14	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	7.92	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	6.17	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	6.41	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	4.95	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	9.99	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	5.57	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d2_uncomp/%05d.jpg
+120X160	0.15	6
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	0.04	4
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d2_uncomp/%05d.jpg
+120X160	1.59	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d3_uncomp/%05d.jpg
+120X160	1.21	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d1_uncomp/%05d.jpg
+120X160	1.34	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d3_uncomp/%05d.jpg
+120X160	1.2	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d3_uncomp/%05d.jpg
+120X160	1.92	613
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d3_uncomp/%05d.jpg
+120X160	1.07	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d2_uncomp/%05d.jpg
+120X160	1.24	451
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d1_uncomp/%05d.jpg
+120X160	1.75	661
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d4_uncomp/%05d.jpg
+120X160	1.08	321
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d3_uncomp/%05d.jpg
+120X160	1.36	486
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d4_uncomp/%05d.jpg
+120X160	1.22	360
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d1_uncomp/%05d.jpg
+120X160	1.11	429
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d3_uncomp/%05d.jpg
+120X160	1.37	491
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d1_uncomp/%05d.jpg
+120X160	1.15	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d2_uncomp/%05d.jpg
+120X160	1.69	561
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person11_jogging_d4_uncomp/%05d.jpg
+120X160	1.22	391
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d3_uncomp/%05d.jpg
+120X160	1.27	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d4_uncomp/%05d.jpg
+120X160	1.46	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d3_uncomp/%05d.jpg
+120X160	1.03	411
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d1_uncomp/%05d.jpg
+120X160	1.28	421
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person15_jogging_d4_uncomp/%05d.jpg
+120X160	1.4	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d2_uncomp/%05d.jpg
+120X160	1.45	521
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person12_jogging_d2_uncomp/%05d.jpg
+120X160	1.31	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d2_uncomp/%05d.jpg
+120X160	1.4	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person14_jogging_d1_uncomp/%05d.jpg
+120X160	1.6	526
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d4_uncomp/%05d.jpg
+120X160	1.89	581
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person18_jogging_d1_uncomp/%05d.jpg
+120X160	1.08	391
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d1_uncomp/%05d.jpg
+120X160	1.54	501
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d4_uncomp/%05d.jpg
+120X160	1.43	436
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person17_jogging_d2_uncomp/%05d.jpg
+120X160	1.61	561
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person13_jogging_d2_uncomp/%05d.jpg
+120X160	1.58	586
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Training/person16_jogging_d4_uncomp/%05d.jpg
+120X160	1.36	406
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person23_jogging_d3_uncomp/%05d.jpg
+120X160	0.94	303
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person04_jogging_d3_uncomp/%05d.jpg
+120X160	1.04	326
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person23_jogging_d4_uncomp/%05d.jpg
+120X160	1.07	311
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person25_jogging_d2_uncomp/%05d.jpg
+120X160	1.39	485
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person19_jogging_d3_uncomp/%05d.jpg
+120X160	1.13	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person25_jogging_d4_uncomp/%05d.jpg
+120X160	1.3	381
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d4_uncomp/%05d.jpg
+120X160	1.31	363
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d3_uncomp/%05d.jpg
+120X160	1.54	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person04_jogging_d4_uncomp/%05d.jpg
+120X160	1	303
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d2_uncomp/%05d.jpg
+120X160	1.8	621
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d1_uncomp/%05d.jpg
+120X160	1.84	581
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d2_uncomp/%05d.jpg
+120X160	1.31	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person23_jogging_d1_uncomp/%05d.jpg
+120X160	1.1	369
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person25_jogging_d3_uncomp/%05d.jpg
+120X160	0.86	313
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person20_jogging_d1_uncomp/%05d.jpg
+120X160	1.35	471
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person23_jogging_d2_uncomp/%05d.jpg
+120X160	1.44	529
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person24_jogging_d4_uncomp/%05d.jpg
+120X160	1.32	376
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person24_jogging_d1_uncomp/%05d.jpg
+120X160	1.8	571
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person19_jogging_d1_uncomp/%05d.jpg
+120X160	1.14	366
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person25_jogging_d1_uncomp/%05d.jpg
+120X160	0.87	285
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person04_jogging_d2_uncomp/%05d.jpg
+120X160	1.57	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person24_jogging_d2_uncomp/%05d.jpg
+120X160	1.87	656
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person20_jogging_d3_uncomp/%05d.jpg
+120X160	1.09	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person24_jogging_d3_uncomp/%05d.jpg
+120X160	1.42	453
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d1_uncomp/%05d.jpg
+120X160	1.36	416
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person19_jogging_d2_uncomp/%05d.jpg
+120X160	1.61	526
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person20_jogging_d4_uncomp/%05d.jpg
+120X160	1.01	321
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person01_jogging_d3_uncomp/%05d.jpg
+120X160	1.19	406
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person04_jogging_d1_uncomp/%05d.jpg
+120X160	1.09	336
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person20_jogging_d2_uncomp/%05d.jpg
+120X160	1.27	471
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person19_jogging_d4_uncomp/%05d.jpg
+120X160	1.17	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Validation/person21_jogging_d4_uncomp/%05d.jpg
+120X160	1.59	451
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person06_jogging_d3_uncomp/%05d.jpg
+120X160	0.97	305
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person06_jogging_d1_uncomp/%05d.jpg
+120X160	0.93	306
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person07_jogging_d3_uncomp/%05d.jpg
+120X160	0.95	313
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person02_jogging_d1_uncomp/%05d.jpg
+120X160	1.02	346
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person07_jogging_d4_uncomp/%05d.jpg
+120X160	1.8	571
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person05_jogging_d3_uncomp/%05d.jpg
+120X160	1.18	353
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person02_jogging_d3_uncomp/%05d.jpg
+120X160	1.04	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person22_jogging_d2_uncomp/%05d.jpg
+120X160	1.34	503
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person08_jogging_d2_uncomp/%05d.jpg
+120X160	1.21	479
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person09_jogging_d1_uncomp/%05d.jpg
+120X160	1.4	466
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person09_jogging_d2_uncomp/%05d.jpg
+120X160	1.54	541
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person08_jogging_d1_uncomp/%05d.jpg
+120X160	1.06	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person22_jogging_d1_uncomp/%05d.jpg
+120X160	1.38	497
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person10_jogging_d1_uncomp/%05d.jpg
+120X160	1.18	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person07_jogging_d2_uncomp/%05d.jpg
+120X160	1.36	457
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person03_jogging_d3_uncomp/%05d.jpg
+120X160	1.09	381
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person03_jogging_d2_uncomp/%05d.jpg
+120X160	1.61	621
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person08_jogging_d4_uncomp/%05d.jpg
+120X160	1.42	426
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person10_jogging_d2_uncomp/%05d.jpg
+120X160	1.7	656
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person22_jogging_d4_uncomp/%05d.jpg
+120X160	1.25	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person22_jogging_d3_uncomp/%05d.jpg
+120X160	1.42	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person03_jogging_d4_uncomp/%05d.jpg
+120X160	1.2	361
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person06_jogging_d2_uncomp/%05d.jpg
+120X160	1.45	499
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person10_jogging_d3_uncomp/%05d.jpg
+120X160	1.19	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person09_jogging_d4_uncomp/%05d.jpg
+120X160	1.29	351
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person03_jogging_d1_uncomp/%05d.jpg
+120X160	1.35	493
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person07_jogging_d1_uncomp/%05d.jpg
+120X160	1.05	331
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person02_jogging_d4_uncomp/%05d.jpg
+120X160	1.15	325
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person05_jogging_d2_uncomp/%05d.jpg
+120X160	1.14	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person10_jogging_d4_uncomp/%05d.jpg
+120X160	1.21	364
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person08_jogging_d3_uncomp/%05d.jpg
+120X160	1.2	401
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person02_jogging_d2_uncomp/%05d.jpg
+120X160	1.59	627
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person05_jogging_d4_uncomp/%05d.jpg
+120X160	1.1	366
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person06_jogging_d4_uncomp/%05d.jpg
+120X160	1.09	341
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person05_jogging_d1_uncomp/%05d.jpg
+120X160	1.08	379
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/jogging/Testing/person09_jogging_d3_uncomp/%05d.jpg
+120X160	1.35	441
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person11_handwaving_d2_uncomp/%05d.jpg
+120X160	1.07	430
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person12_handwaving_d3_uncomp/%05d.jpg
+120X160	1.74	700
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person14_handwaving_d4_uncomp/%05d.jpg
+120X160	1.72	632
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person18_handwaving_d2_uncomp/%05d.jpg
+120X160	1.92	731
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person13_handwaving_d3_uncomp/%05d.jpg
+120X160	0.85	337
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d4_uncomp/%05d.jpg
+120X160	1.79	667
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person14_handwaving_d1_uncomp/%05d.jpg
+120X160	1.41	546
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person16_handwaving_d3_uncomp/%05d.jpg
+120X160	1.3	509
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person11_handwaving_d1_uncomp/%05d.jpg
+120X160	1.21	476
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d3_uncomp/%05d.jpg
+120X160	1.46	583
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person16_handwaving_d4_uncomp/%05d.jpg
+120X160	1.22	457
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person11_handwaving_d4_uncomp/%05d.jpg
+120X160	1.2	457
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person18_handwaving_d4_uncomp/%05d.jpg
+120X160	1.65	596
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person16_handwaving_d2_uncomp/%05d.jpg
+120X160	1.27	498
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person13_handwaving_d1_uncomp/%05d.jpg
+120X160	1.37	521
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person12_handwaving_d2_uncomp/%05d.jpg
+120X160	1.48	591
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d3_uncomp/%05d.jpg
+120X160	1.5	599
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person12_handwaving_d1_uncomp/%05d.jpg
+120X160	1.7	673
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d1_uncomp/%05d.jpg
+120X160	1.13	431
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d4_uncomp/%05d.jpg
+120X160	1.18	395
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d2_uncomp/%05d.jpg
+120X160	1.8	704
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person16_handwaving_d1_uncomp/%05d.jpg
+120X160	1.25	493
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person18_handwaving_d3_uncomp/%05d.jpg
+120X160	1.47	553
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person14_handwaving_d3_uncomp/%05d.jpg
+120X160	0.84	331
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person18_handwaving_d1_uncomp/%05d.jpg
+120X160	1.53	581
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person12_handwaving_d4_uncomp/%05d.jpg
+120X160	1.53	568
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person14_handwaving_d2_uncomp/%05d.jpg
+120X160	1.68	527
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person13_handwaving_d2_uncomp/%05d.jpg
+120X160	1.25	493
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person15_handwaving_d1_uncomp/%05d.jpg
+120X160	1.51	582
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person13_handwaving_d4_uncomp/%05d.jpg
+120X160	1.48	557
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person17_handwaving_d2_uncomp/%05d.jpg
+120X160	2.19	825
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Training/person11_handwaving_d3_uncomp/%05d.jpg
+120X160	1.28	516
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person21_handwaving_d1_uncomp/%05d.jpg
+120X160	1.63	606
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person01_handwaving_d2_uncomp/%05d.jpg
+120X160	1.71	657
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person25_handwaving_d2_uncomp/%05d.jpg
+120X160	1.21	485
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person20_handwaving_d3_uncomp/%05d.jpg
+120X160	1.33	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person23_handwaving_d4_uncomp/%05d.jpg
+120X160	1.33	527
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person25_handwaving_d1_uncomp/%05d.jpg
+120X160	1.19	476
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person25_handwaving_d3_uncomp/%05d.jpg
+120X160	1.26	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person25_handwaving_d4_uncomp/%05d.jpg
+120X160	1.23	481
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person21_handwaving_d4_uncomp/%05d.jpg
+120X160	1.7	639
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person01_handwaving_d3_uncomp/%05d.jpg
+120X160	1.13	457
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person23_handwaving_d3_uncomp/%05d.jpg
+120X160	1.25	485
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person19_handwaving_d2_uncomp/%05d.jpg
+120X160	1.6	631
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person19_handwaving_d4_uncomp/%05d.jpg
+120X160	1.55	600
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person21_handwaving_d3_uncomp/%05d.jpg
+120X160	1.36	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person04_handwaving_d4_uncomp/%05d.jpg
+120X160	1.25	461
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person24_handwaving_d2_uncomp/%05d.jpg
+120X160	1.32	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person20_handwaving_d1_uncomp/%05d.jpg
+120X160	1.38	536
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person23_handwaving_d2_uncomp/%05d.jpg
+120X160	1.73	659
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person23_handwaving_d1_uncomp/%05d.jpg
+120X160	1.51	577
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person04_handwaving_d1_uncomp/%05d.jpg
+120X160	2.01	733
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person20_handwaving_d2_uncomp/%05d.jpg
+120X160	1.32	511
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person24_handwaving_d4_uncomp/%05d.jpg
+120X160	1.39	526
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person01_handwaving_d1_uncomp/%05d.jpg
+120X160	1.22	469
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person01_handwaving_d4_uncomp/%05d.jpg
+120X160	1.3	491
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person19_handwaving_d3_uncomp/%05d.jpg
+120X160	1.66	639
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person04_handwaving_d3_uncomp/%05d.jpg
+120X160	1.43	539
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person24_handwaving_d1_uncomp/%05d.jpg
+120X160	1.52	589
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person20_handwaving_d4_uncomp/%05d.jpg
+120X160	1.24	503
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person04_handwaving_d2_uncomp/%05d.jpg
+120X160	1.6	563
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person19_handwaving_d1_uncomp/%05d.jpg
+120X160	1.67	656
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person24_handwaving_d3_uncomp/%05d.jpg
+120X160	1.36	521
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Validation/person21_handwaving_d2_uncomp/%05d.jpg
+120X160	1.77	665
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person22_handwaving_d3_uncomp/%05d.jpg
+120X160	1.25	487
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person03_handwaving_d3_uncomp/%05d.jpg
+120X160	1.28	493
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person05_handwaving_d4_uncomp/%05d.jpg
+120X160	1.09	433
+-------------------------------
+
+-------------------------------
+./KTH/dataset/KTH/handwaving/Testing/person09_handwaving_d4_uncomp/%05d.jpg
+120X160	1.07	406
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	23.57	1571
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/sidewalk/input/in%06d.jpg
+240X352	13.75	1201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/boulevard/input/in%06d.jpg
+240X352	25.71	2501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/badminton/input/in%06d.jpg
+480X720	51.92	1151
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/PETS2006/input/in%06d.jpg
+576X720	96.03	1201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	21.35	2051
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	11.41	1100
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/highway/input/in%06d.jpg
+240X320	16.23	1701
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/turbulence/turbulence2/input/in%06d.jpg
+315X645	112.25	4501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/canoe/input/in%06d.jpg
+240X320	11.12	1190
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/fountain02/input/in%06d.jpg
+288X432	22.7	1500
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/fountain01/input/in%06d.jpg
+288X432	17.86	1185
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/fall/input/in%06d.jpg
+480X720	174.06	4001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/overpass/input/in%06d.jpg
+240X320	28.39	3001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/boats/input/in%06d.jpg
+240X320	74.75	8000
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/lowFramerate/turnpike_0_5fps/input/in%06d.jpg
+240X320	14	1501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/lowFramerate/port_0_17fps/input/in%06d.jpg
+480X640	114.39	3001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/lowFramerate/tunnelExit_0_35fps/input/in%06d.jpg
+440X700	151.65	4001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/lowFramerate/tramCrossroad_1fps/input/in%06d.jpg
+350X640	26.03	901
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	23.69	1571
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/sidewalk/input/in%06d.jpg
+240X352	14.27	1201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/boulevard/input/in%06d.jpg
+240X352	26.21	2501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/cameraJitter/badminton/input/in%06d.jpg
+480X720	53.96	1151
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/PTZ/continuousPan/input/in%06d.jpg
+480X704	82.62	1701
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/PTZ/zoomInZoomOut/input/in%06d.jpg
+240X320	10.91	1131
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/PTZ/intermittentPan/input/in%06d.jpg
+368X560	91.63	3501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/PTZ/twoPositionPTZCam/input/in%06d.jpg
+340X570	56.25	2301
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/PETS2006/input/in%06d.jpg
+576X720	72.81	1201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	21.81	2051
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	11.58	1100
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/highway/input/in%06d.jpg
+240X320	16.25	1701
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/turbulence/turbulence3/input/in%06d.jpg
+486X720	113.33	2201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/turbulence/turbulence0/input/in%06d.jpg
+480X720	207.29	5001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/turbulence/turbulence1/input/in%06d.jpg
+480X720	179.31	4001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/turbulence/turbulence2/input/in%06d.jpg
+315X645	116.39	4501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/canoe/input/in%06d.jpg
+240X320	11.66	1190
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/fountain02/input/in%06d.jpg
+288X432	23.02	1500
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/fountain01/input/in%06d.jpg
+288X432	17.96	1185
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/fall/input/in%06d.jpg
+480X720	179.66	4001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/overpass/input/in%06d.jpg
+240X320	28.73	3001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/dynamicBackground/boats/input/in%06d.jpg
+240X320	78.36	8000
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/thermal/diningRoom/input/in%06d.jpg
+240X320	34.53	3701
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/thermal/park/input/in%06d.jpg
+288X352	9.21	601
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/thermal/lakeSide/input/in%06d.jpg
+240X320	60.76	6501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/thermal/corridor/input/in%06d.jpg
+240X320	49.28	5401
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/thermal/library/input/in%06d.jpg
+240X320	45.5	4901
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/intermittentObjectMotion/abandonedBox/input/in%06d.jpg
+288X432	67.74	4501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/intermittentObjectMotion/tramstop/input/in%06d.jpg
+288X432	51.88	3201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/intermittentObjectMotion/parking/input/in%06d.jpg
+240X320	23.72	2501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/intermittentObjectMotion/streetLight/input/in%06d.jpg
+240X320	30.9	3201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/intermittentObjectMotion/winterDriveway/input/in%06d.jpg
+240X320	23.16	2501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/intermittentObjectMotion/sofa/input/in%06d.jpg
+240X320	25.81	2751
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/badWeather/blizzard/input/in%06d.jpg
+480X720	296.83	7001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/badWeather/wetSnow/input/in%06d.jpg
+540X720	163.25	3501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/badWeather/skating/input/in%06d.jpg
+360X540	96.59	3901
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/badWeather/snowFall/input/in%06d.jpg
+480X720	272.49	6501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/shadow/backdoor/input/in%06d.jpg
+240X320	20.2	2001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/shadow/bungalows/input/in%06d.jpg
+240X360	22.8	1701
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/shadow/cubicle/input/in%06d.jpg
+240X352	75.11	7401
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/shadow/peopleInShade/input/in%06d.jpg
+244X380	14.18	1200
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/shadow/copyMachine/input/in%06d.jpg
+480X720	154.5	3401
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/shadow/busStation/input/in%06d.jpg
+240X360	13.3	1251
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/nightVideos/streetCornerAtNight/input/in%06d.jpg
+245X595	88.92	5201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/nightVideos/bridgeEntry/input/in%06d.jpg
+430X630	80.05	2501
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/nightVideos/tramStation/input/in%06d.jpg
+295X480	54.41	3001
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/nightVideos/fluidHighway/input/in%06d.jpg
+450X700	53.58	1365
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/nightVideos/busyBoulvard/input/in%06d.jpg
+364X640	76.17	2761
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/nightVideos/winterStreet/input/in%06d.jpg
+420X624	55.85	1786
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	27.47	2051
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	14.56	1100
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/highway/input/in%06d.jpg
+240X320	8.33	698
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	2.44	205
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	0.63	47
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	2.19	154
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	6.16	492
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/highway/input/in%06d.jpg
+240X320	2.1	170
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	26.5	2051
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	3.05	234
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/highway/input/in%06d.jpg
+240X320	0.39	31
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	1.53	32
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	66.32	1510
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	0.69	16
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/highway/input/in%06d.jpg
+240X320	0.22	4
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/office/input/in%06d.jpg
+240X360	14.99	1169
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/PETS2006/input/in%06d.jpg
+576X720	66.5	1201
+-------------------------------
+
+-------------------------------
+/home/cseuser1/BGS/dataset/baseline/PETS2006/input/in%06d.jpg
+576X720	99.35	1201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/streetLight/input/in%06d.jpg
+240X320	27.135	3201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/sofa/input/in%06d.jpg
+240X320	22.8367	2751
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/streetLight/input/in%06d.jpg
+240X320	68.7331	3201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/sofa/input/in%06d.jpg
+240X320	52.9886	2751
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/abandonedBox/input/in%06d.jpg
+288X432	100.193	4501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/winterDriveway/input/in%06d.jpg
+240X320	20.1585	2501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/tramstop/input/in%06d.jpg
+288X432	45.8777	3201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/parking/input/in%06d.jpg
+240X320	21.3419	2501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/badWeather/blizzard/input/in%06d.jpg
+480X720	251.558	7001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/badWeather/skating/input/in%06d.jpg
+360X540	85.5757	3901
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/badWeather/snowFall/input/in%06d.jpg
+480X720	236.852	6501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/badWeather/wetSnow/input/in%06d.jpg
+540X720	141.089	3501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/copyMachine/input/in%06d.jpg
+480X720	136.938	3401
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/peopleInShade/input/in%06d.jpg
+244X380	12.0283	1200
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/busStation/input/in%06d.jpg
+240X360	11.6278	1251
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/cubicle/input/in%06d.jpg
+240X352	64.3848	7401
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/bungalows/input/in%06d.jpg
+240X360	21.3348	1701
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/backdoor/input/in%06d.jpg
+240X320	17.594	2001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/turbulence/turbulence3/input/in%06d.jpg
+486X720	93.8927	2201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/turbulence/turbulence0/input/in%06d.jpg
+480X720	178.823	5001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/turbulence/turbulence1/input/in%06d.jpg
+480X720	155.987	4001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/turbulence/turbulence2/input/in%06d.jpg
+315X645	104.077	4501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/baseline/office/input/in%06d.jpg
+240X360	19.8664	2051
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/baseline/PETS2006/input/in%06d.jpg
+576X720	66.5329	1201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/baseline/highway/input/in%06d.jpg
+240X320	14.1313	1701
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	10.2272	1100
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/overpass/input/in%06d.jpg
+240X320	25.3232	3001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/fall/input/in%06d.jpg
+480X720	163.421	4001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/canoe/input/in%06d.jpg
+240X320	10.0137	1190
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/boats/input/in%06d.jpg
+240X320	70.0399	8000
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/fountain02/input/in%06d.jpg
+288X432	20.7285	1500
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/fountain01/input/in%06d.jpg
+288X432	15.7914	1185
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/cameraJitter/boulevard/input/in%06d.jpg
+240X352	22.2558	2501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/cameraJitter/sidewalk/input/in%06d.jpg
+240X352	12.2692	1201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/cameraJitter/badminton/input/in%06d.jpg
+480X720	44.9329	1151
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	22.1941	1571
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/lowFramerate/tramCrossroad_1fps/input/in%06d.jpg
+350X640	23.8269	901
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/lowFramerate/turnpike_0_5fps/input/in%06d.jpg
+240X320	12.1995	1501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/lowFramerate/port_0_17fps/input/in%06d.jpg
+480X640	100.648	3001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/lowFramerate/tunnelExit_0_35fps/input/in%06d.jpg
+440X700	132.284	4001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/lakeSide/input/in%06d.jpg
+240X320	51.3576	6501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/park/input/in%06d.jpg
+288X352	8.18097	601
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/corridor/input/in%06d.jpg
+240X320	42.3496	5401
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/diningRoom/input/in%06d.jpg
+240X320	30.0749	3701
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/library/input/in%06d.jpg
+240X320	38.312	4901
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/tramStation/input/in%06d.jpg
+295X480	47.8078	3001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/busyBoulvard/input/in%06d.jpg
+364X640	66.031	2761
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/streetCornerAtNight/input/in%06d.jpg
+245X595	76.1654	5201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/fluidHighway/input/in%06d.jpg
+450X700	47.0123	1365
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/bridgeEntry/input/in%06d.jpg
+430X630	69.4139	2501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/winterStreet/input/in%06d.jpg
+420X624	48.4805	1786
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/PTZ/zoomInZoomOut/input/in%06d.jpg
+240X320	9.32796	1131
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/PTZ/intermittentPan/input/in%06d.jpg
+368X560	81.2487	3501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/PTZ/continuousPan/input/in%06d.jpg
+480X704	73.7812	1701
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/PTZ/twoPositionPTZCam/input/in%06d.jpg
+340X570	49.4493	2301
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/streetLight/input/in%06d.jpg
+240X320	28.558	3201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/sofa/input/in%06d.jpg
+240X320	21.7844	2751
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/abandonedBox/input/in%06d.jpg
+288X432	60.2597	4501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/winterDriveway/input/in%06d.jpg
+240X320	20.028	2501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/tramstop/input/in%06d.jpg
+288X432	45.5179	3201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/intermittentObjectMotion/parking/input/in%06d.jpg
+240X320	21.3101	2501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/badWeather/blizzard/input/in%06d.jpg
+480X720	250.492	7001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/badWeather/skating/input/in%06d.jpg
+360X540	86.1199	3901
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/badWeather/snowFall/input/in%06d.jpg
+480X720	238.872	6501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/badWeather/wetSnow/input/in%06d.jpg
+540X720	140.956	3501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/copyMachine/input/in%06d.jpg
+480X720	135.894	3401
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/peopleInShade/input/in%06d.jpg
+244X380	11.8637	1200
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/busStation/input/in%06d.jpg
+240X360	11.6076	1251
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/cubicle/input/in%06d.jpg
+240X352	64.3034	7401
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/bungalows/input/in%06d.jpg
+240X360	21.2123	1701
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/shadow/backdoor/input/in%06d.jpg
+240X320	17.5371	2001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/turbulence/turbulence3/input/in%06d.jpg
+486X720	93.7054	2201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/turbulence/turbulence0/input/in%06d.jpg
+480X720	179.026	5001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/turbulence/turbulence1/input/in%06d.jpg
+480X720	157.299	4001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/turbulence/turbulence2/input/in%06d.jpg
+315X645	103.744	4501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/baseline/office/input/in%06d.jpg
+240X360	18.8431	2051
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/baseline/PETS2006/input/in%06d.jpg
+576X720	66.4773	1201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/baseline/highway/input/in%06d.jpg
+240X320	14.0725	1701
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/baseline/pedestrians/input/in%06d.jpg
+240X360	10.2011	1100
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/overpass/input/in%06d.jpg
+240X320	25.3198	3001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/fall/input/in%06d.jpg
+480X720	161.168	4001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/canoe/input/in%06d.jpg
+240X320	10.097	1190
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/boats/input/in%06d.jpg
+240X320	69.9272	8000
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/fountain02/input/in%06d.jpg
+288X432	20.7677	1500
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/dynamicBackground/fountain01/input/in%06d.jpg
+288X432	15.7558	1185
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/cameraJitter/boulevard/input/in%06d.jpg
+240X352	22.3393	2501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/cameraJitter/sidewalk/input/in%06d.jpg
+240X352	12.2011	1201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/cameraJitter/badminton/input/in%06d.jpg
+480X720	44.8337	1151
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	22.2584	1571
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/lowFramerate/tramCrossroad_1fps/input/in%06d.jpg
+350X640	23.8194	901
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/lowFramerate/turnpike_0_5fps/input/in%06d.jpg
+240X320	12.1437	1501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/lowFramerate/port_0_17fps/input/in%06d.jpg
+480X640	100.863	3001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/lowFramerate/tunnelExit_0_35fps/input/in%06d.jpg
+440X700	132.137	4001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/lakeSide/input/in%06d.jpg
+240X320	51.1601	6501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/park/input/in%06d.jpg
+288X352	8.1469	601
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/corridor/input/in%06d.jpg
+240X320	41.8885	5401
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/diningRoom/input/in%06d.jpg
+240X320	29.2072	3701
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/thermal/library/input/in%06d.jpg
+240X320	38.2693	4901
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/tramStation/input/in%06d.jpg
+295X480	47.6394	3001
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/busyBoulvard/input/in%06d.jpg
+364X640	65.8523	2761
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/streetCornerAtNight/input/in%06d.jpg
+245X595	81.3247	5201
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/fluidHighway/input/in%06d.jpg
+450X700	46.5165	1365
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/bridgeEntry/input/in%06d.jpg
+430X630	68.6883	2501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/nightVideos/winterStreet/input/in%06d.jpg
+420X624	48.0017	1786
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/PTZ/zoomInZoomOut/input/in%06d.jpg
+240X320	9.31948	1131
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/PTZ/intermittentPan/input/in%06d.jpg
+368X560	81.233	3501
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/PTZ/continuousPan/input/in%06d.jpg
+480X704	73.7756	1701
+-------------------------------
+
+-------------------------------
+/home/muralikrishnasn/ParamServerContents/BGS_22_05_2018/dataset/PTZ/twoPositionPTZCam/input/in%06d.jpg
+340X570	49.4861	2301
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	17.0948	1571
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	17.4488	1571
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/sidewalk/input/in%06d.jpg
+240X352	10.7165	1201
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/badminton/input/in%06d.jpg
+480X720	36.7588	1151
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/boulevard/input/in%06d.jpg
+240X352	21.0139	2501
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	18.9799	1571
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	13.0418	1571
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	12.8936	1571
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/badminton/input/in%06d.jpg
+480X720	41.2818	1151
+-------------------------------
+
+-------------------------------
+/home/murali_sn/BGS/dataset/cameraJitter/traffic/input/in%06d.jpg
+240X320	13.3267	1571
+-------------------------------
