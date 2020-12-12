@@ -1,3 +1,4 @@
+/* The file is modified*/
 #include<stdio.h>
 #include <opencv/cv.h>
 #include <opencv/cxcore.h>
